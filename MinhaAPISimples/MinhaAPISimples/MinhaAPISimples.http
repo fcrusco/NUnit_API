@@ -1,0 +1,6 @@
+@MinhaAPISimples_HostAddress = http://localhost:5290
+
+GET {{MinhaAPISimples_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
